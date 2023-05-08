@@ -1,4 +1,5 @@
 {
   "name": "todo",
-  "displayName": "todo"
+  "displayName": "todo",
+  "expo.sdkVersion": "36.0.0"
 }
